@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajprajapati-rgb" alt="surajprajapati-rgb" /></a> </p>
 
+- 🔭 I’m currently working on [Career Horizon](https://github.com/surajPrajapati-rgb/CareerHorizon)
+
+- 📫 How to reach me **jnvsuraj7388@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/@jnvsuraj7388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jnvsuraj7388" height="30" width="40" /></a>
