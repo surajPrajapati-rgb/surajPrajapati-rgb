@@ -5,9 +5,18 @@
   <a href="https://github.com/surajPrajapati-rgb/CareerHorizon/actions/workflows/build_tests.yml">
     <img src="https://github.com/surajPrajapati-rgb/CareerHorizon/actions/workflows/build_tests.yml/badge.svg" alt="Build and Test">
   </a>
+  <a href="https://github.com/surajPrajapati-rgb/CareerHorizon/actions/workflows/backup.yml">
+    <img src="https://github.com/surajPrajapati-rgb/CareerHorizon/actions/workflows/backup.yml/badge.svg" alt="Backup Database">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=surajprajapati-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajprajapati-rgb" alt="surajprajapati-rgb" /></a> </p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=surajprajapati-rgb" alt="Trophies for surajprajapati-rgb" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on [Career Horizon](https://github.com/surajPrajapati-rgb/CareerHorizon)
 
